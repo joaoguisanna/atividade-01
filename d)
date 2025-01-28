@@ -1,6 +1,7 @@
 using System;
 
 namespace sanna
+
 {
 	class Program
 	{
@@ -11,7 +12,7 @@ namespace sanna
 			Console.Write("Digite sim ou não:");
 			entrada = Console.ReadLine();
 			
-			if (entrada == "sim"),
+			if (entrada == "sim")
 			{
 				resposta = true;
 			}
